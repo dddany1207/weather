@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.red,
       ),
       home: Container(
-          padding: const EdgeInsets.all(30), child: const Text('test')),
+          padding: const EdgeInsets.all(30), child: const Text('teewqeqwst')),
     );
   }
 }
